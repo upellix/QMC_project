@@ -5,7 +5,7 @@ The code is capable of computing energy for systems made by hydrogen and Helium 
 For more details, please refer to ```Document``` file.
 
 ## Download and installation
-To get a copy of the program, clone the repository from <https://github.com/upellix/montecarlo_project.git> or download the ```.zip``` file from GitHub.
+To get a copy of the program, clone the repository from <https://github.com/upellix/QMC_project.git> or download the ```.zip``` file from GitHub.
 The program is written in Fortran 90 so a fortran compiler (*gfortran*, *pgfortran*, *ifort*, ...) is required to compile the code.
 
 ## Run the program  

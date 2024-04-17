@@ -1,0 +1,15 @@
+# System parameters:
+ 
+h3.xyz         # Geometry file 
+2              # Number of electrons
+1.0            # Wavefunction parameter "a"
+
+# Montecarlo simulation parameters:
+
+dif            # Chose the monte-carlo method between variational (var) and pure diffusion (dif)
+10000          # Number of steps
+500            # Number of walkers
+0.001          # Time step
+
+-1.5           # Reference energy in a.u. !! ONLY FOR PURE DIFFUSION !!
+10000          # Projection time          !! ONLY FOR PURE DIFFUSION !!

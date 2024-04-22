@@ -20,7 +20,7 @@ To run the code, two file are needed:
   This file contains all the parameters for the calculation,allowing selection between 
 the Variational Monte Carlo (var) algorith and the Pure Diffusion Monte Carlo (dif) 
 algorithm. An example is provided in the repository.
-- ### Geometry file ```(syestem).xyz```
+- ### Geometry file ```[syestem].xyz```
   This file contain the geometry information of the system, including the number and the position of the atoms. Several exaples of tested system are available in the repository.
 
 Once these files are prepared in the same directory as the program, execute it by running:

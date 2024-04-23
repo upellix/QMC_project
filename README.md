@@ -2,7 +2,7 @@
 
 The ```code.F90``` is a program to compute energies for simple hydrogen or helium-based system using Monte Carlo algorithms. Specifically, the program implements the Variational Monte Carlo and the Pure Diffusion Monte Carlo algorithms.
 The code is capable of computing energy for systems made by hydrogen and Helium with at least 2 electrons, such as H, He, H<sub>2</sub><sup>+</sup>, H<sub>2</sub> and H<sub>3</sub><sup>+</sup>.
-For more details, please refer to ```Document``` file.
+For more details, please refer to ```Documentation.pdf``` file.
 
 ## Download and installation
 To get a copy of the program, clone the repository from <https://github.com/upellix/QMC_project.git> or download the ```.zip``` file from GitHub.
